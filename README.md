@@ -1,5 +1,5 @@
-# **Mini WP** (Portofolio Project Week 2)
-Website : http://mini-wordpress.alvinchristian7.icu/
+# **E-commerce** (Portofolio Project Week 3)
+Website : http://e-commerce.alvinchristian7.icu/
 ----------------------------------------
 
 ## MongoDB Schema
